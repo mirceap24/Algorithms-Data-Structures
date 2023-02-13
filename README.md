@@ -5,3 +5,4 @@ Covered topics:
 - arrays & hashing
 - two pointers technique
 - stack data structure
+- binary search
