@@ -30,7 +30,7 @@ class Solution:
                 if (r - l + 1) < resLen: 
                     res = [l, r]
                     resLen = (r - l + 1)
-                # pop from the left of our window 
+                # remove from the left of our window 
                 window[s[l]] -= 1
                 if s[l] in countT and window[s[l]] < countT[s[l]]:
                     have -= 1
