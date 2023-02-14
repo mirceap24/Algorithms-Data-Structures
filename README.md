@@ -7,3 +7,4 @@ Covered topics:
 - stack data structure
 - binary search
 - sliding window
+- linked lists
