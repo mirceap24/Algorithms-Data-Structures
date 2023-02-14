@@ -1,4 +1,4 @@
-This repo includes solutions to different algorithmic problems.
+This repo includes solutions to popular algorithmic puzzles.
 
 Covered topics:
 
@@ -6,3 +6,4 @@ Covered topics:
 - two pointers technique
 - stack data structure
 - binary search
+- sliding window
