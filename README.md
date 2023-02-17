@@ -8,3 +8,4 @@ Covered topics:
 - binary search
 - sliding window
 - linked lists
+- trees 
